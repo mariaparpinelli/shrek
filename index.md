@@ -59,4 +59,4 @@ The data supports adding pre-lecture videos as a helpful resource for students. 
 
 ## About Me
 
-I am a student in COMP110 interested in using data to understand and improve learning experiences.
+I am a Media and Journalism junior with a minor in data science, enrolled in COMP110 due to my interest in using data to understand and improve learning experiences.
