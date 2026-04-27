@@ -38,14 +38,18 @@ The data comes from an anonymized student survey. I used Python to process the d
 ## Visualizations
 
 ### Chart 1: Pre-Lecture Video Ratings
-<img src="static/imgs/chart1.png" width="500"/>
+<img src="/shrek/static/imgs/chart1.png" width="500"/>
+
+This chart shows that most students rated pre-lecture videos highly, with many responses at 5–7. This indicates strong overall interest in using videos as a learning resource.
 
 ### Chart 2: Difficulty vs Pre-Lecture Videos
 <img src="static/imgs/chart2.png" width="500"/>
 
+I used Python to clean and analyze the data. I converted survey responses into numeric values and used pandas to organize the data into tables. Then, I created visualizations using seaborn to explore relationships between variables.
+
 ### Chart 3: Pace vs Pre-Lecture Videos
 <img src="static/imgs/chart3.png" width="500"/>
----
+---While creating these videos may require additional time and effort from instructors, the potential benefits for student understanding and success outweigh these costs.
 
 ## Conclusion
 
