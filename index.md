@@ -49,7 +49,7 @@ I used Python to clean and analyze the data. I converted survey responses into n
 
 ### Chart 3: Pace vs Pre-Lecture Videos
 <img src="static/imgs/chart3.png" width="500"/>
----While creating these videos may require additional time and effort from instructors, the potential benefits for student understanding and success outweigh these costs.
+While creating these videos may require additional time and effort from instructors, the potential benefits for student understanding and success outweigh these costs.
 
 ## Conclusion
 
